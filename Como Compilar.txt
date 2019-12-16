@@ -1,0 +1,4 @@
+flex cminus
+bison -d cminus
+gcc -c *.c
+gcc -o cminus *.0 -lfl -ly
